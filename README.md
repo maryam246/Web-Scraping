@@ -1,6 +1,6 @@
 # Web Scraping and File Handling with Python
 
-In `web_scraping.py` Python script allows you to perform web scraping of Google search results. It fetches and displays the title and URL of the first search result and saves this information in a text file. This README provides an overview of the code and how to run it.
+In `web_scraping.py` Python script allows you to perform web scraping of Google search results. It fetches and displays the title and URL of the first search result and saves this information in a text file.
 
 ## Code Explanation
 
